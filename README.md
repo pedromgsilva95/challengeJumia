@@ -1,2 +1,2 @@
-# challengeJumia
+# ChallengeJumia
 Challenge Jumia By Pedro Silva
