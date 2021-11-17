@@ -1,0 +1,11 @@
+form#filterCustomer{
+    padding-top: 40px !important;
+}
+
+div#customersList_wrapper{
+    padding-top: 40px !important;
+}
+
+div#customersList_filter{
+    display: none;
+}
